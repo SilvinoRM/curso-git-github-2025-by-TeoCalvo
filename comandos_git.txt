@@ -6,12 +6,13 @@ git log 		-> mostra todo o histórico de commit
 
 ## FLUXO DE TRABALHO NO GIT ##
 
-1. criar o diretório do projeto
-2. iniciar o git dentro do diretório criado (git init .)
+1. criar o diretório (pasta) aonde vou desenvolver meu projeto
+2. iniciar o git dentro do diretório criado (git init .) Obs: o ponto quer dizer diretório/pasta atual
 3. editar ou criar arquivos
 4. git status
-5. git add <nome arquivo>
+5. git add <nome arquivo>, ou git add . (pego todos os arquivos que estão naquele diretório), ou git add * .txt, usar os coringas (se eu quero dar um commit em todos,
+os arquivos de texto (txt)   
 6. git status
-7. git commit -m "msg"
+7. git commit -m "msg" (assinatura do commit) um snap shot, uma fotografia
 8. git status
 9. volta para o passo 3
