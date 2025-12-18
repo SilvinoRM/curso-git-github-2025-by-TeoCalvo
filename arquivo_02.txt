@@ -1,1 +1,3 @@
 Criando branch secundaria02
+
+add mais uma linha no arquivo_02
